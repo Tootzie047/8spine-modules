@@ -1,0 +1,13 @@
+{
+  "name": "Tootzie",
+  "modules": [
+    {
+      "id": "eclipse-invidious",
+      "name": "Invidious (YouTube)",
+      "version": "1.0.1",
+      "description": "Stream and search from YouTube via Invidious.",
+      "labels": ["YOUTUBE", "FREE", "NO-AUTH"],
+      "download": "https://tootzie047.github.io/8spine-modules/eclipse-invidious.js"
+    }
+  ]
+}
