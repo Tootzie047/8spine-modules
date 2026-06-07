@@ -1,7 +1,7 @@
 var _INSTANCES = [
-‘https://invidious.slipfox.xyz’,
-‘https://inv.nadeko.net’,
-‘https://invidious.nerdvpn.de’
+  'https://inv.thepixora.com',
+  'https://invidious.privacydev.net',
+  'https://iv.melmac.space'
 ];
 var _instanceIndex = 0;
 
